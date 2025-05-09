@@ -60,7 +60,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,discord,notion,androidstudio&perline=3" alt="Tools"/>
+					<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,latex,discord,notion,androidstudio&perline=3"alt="Tools"/>
 				</a>
 			</p>
 		</td>
