@@ -51,7 +51,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,dart&perline=3" alt="Languages"/>
+					<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,dart&perline=3" alt="Languages"/>
 				</a>
 			</p>
 		</td>
@@ -69,7 +69,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=flutter&perline=3" alt="Libraries & Frameworks"/>
+					<img src="https://skillicons.dev/icons?i=flutter,dotnet&perline=3" alt="Libraries & Frameworks"/>
 				</a>
 			</p>
 		</td>
