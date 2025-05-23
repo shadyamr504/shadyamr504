@@ -16,8 +16,7 @@
 
 <p align="left">🌱 I’m currently learning Full Stack Development. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
+- ✨ I’m currently learning many things. I believe that every day is a learning opportunity.
 - 💁‍♂️ Head of Problem Setters team at [ICPC Modern Academy Community](https://github.com/ModernAcademyICPC)
 <!--End Intro-->
 
