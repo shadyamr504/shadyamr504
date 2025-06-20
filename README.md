@@ -50,7 +50,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,dart&perline=3" alt="Languages"/>
+					<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,dart,py&perline=3" alt="Languages"/>
 				</a>
 			</p>
 		</td>
@@ -59,7 +59,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,latex,discord,notion,androidstudio&perline=3"alt="Tools"/>
+					<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,visualstudio,latex,discord,notion,androidstudio&perline=3"alt="Tools"/>
 				</a>
 			</p>
 		</td>
