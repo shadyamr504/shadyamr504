@@ -58,10 +58,12 @@
 			<h3 align="center">Tᴏᴏʟs</h3> 
 			<br>
 			<p align="center"> 
-				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,visualstudio,latex,discord,notion,androidstudio&perline=3"alt="Tools"/>
-				</a>
-			</p>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,visualstudio,latex,discord,notion,androidstudio&perline=3" alt="Tools"/>
+	</a>
+	<br><br>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/>
+</p>
 		</td>
 		<td valign="top" width="33%">
 			<h3 align="center">Lɪʙʀᴀʀɪᴇs & Fʀᴀᴍᴇᴡᴏʀᴋs</h3>
