@@ -104,8 +104,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shadyamr504/Smart-Todo-List">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shadyamr504&repo=Smart-Todo-List&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Smart-Todo-List" />
+        <a href="https://github.com/shadyamr504/TagIt-Bot">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shadyamr504&repo=TagIt-Bot&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Smart-Todo-List" />
         </a>
       </p>
     </td>
