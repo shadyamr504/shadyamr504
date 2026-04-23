@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AF2&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Shady;Full+Stack+Developer;Love+to+learn+new+things;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AF2&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Shady;Backend+.NET+Developer;Love+to+learn+new+things;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -14,9 +14,9 @@
   <img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<p align="left">🌱 I’m currently learning Full Stack Development. </p>
+<p align="left">🌱 I'm a Backend .NET Developer </p>
 
-- ✨ I’m currently learning many things. I believe that every day is a learning opportunity.
+- 💬 Ask me about my experience with C#, ASP.NET API, and EF Core, or anything related to web development.
 - 💁‍♂️ Head of [ICPC Modern Academy Community](https://github.com/ModernAcademyICPC)
 <!--End Intro-->
 
